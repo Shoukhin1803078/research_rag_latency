@@ -368,12 +368,12 @@ Public release of the compressor, budget controller, scoring, grounding evaluato
 
 | Phase | Activities | Indicative duration |
 |---|---|---|
-| 1. Harness | CPU harness + telemetry + measurement methodology validated | 3 weeks |
-| 2. Characterization | E1 context-length scaling; E8 bandwidth analysis | 4 weeks |
-| 3. Baselines | Full/top-k/LLMLingua-2/Perception Compressor on identical hardware | 3–4 weeks |
-| 4. DECAF | Scorer + CPU-aware controller + reordering + grounding evaluator | 4 weeks |
-| 5. Core results | E2–E7, E9; `L*` and Pareto frontiers; component analysis | 4–5 weeks |
-| 6. Secondary + writing | Transferability study; manuscript; artifacts | 4 weeks |
+| 1. Harness | CPU harness + telemetry + measurement methodology validated | 1 weeks |
+| 2. Characterization | E1 context-length scaling; E8 bandwidth analysis | 2 weeks |
+| 3. Baselines | Full/top-k/LLMLingua-2/Perception Compressor on identical hardware | 2 weeks |
+| 4. DECAF | Scorer + CPU-aware controller + reordering + grounding evaluator | 2 weeks |
+| 5. Core results | E2–E7, E9; `L*` and Pareto frontiers; component analysis | 1 weeks |
+| 6. Secondary + writing | Transferability study; manuscript; artifacts | 2 weeks |
 
 ***Table 7. Collaboration roles***
 
