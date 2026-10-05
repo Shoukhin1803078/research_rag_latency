@@ -17,11 +17,6 @@ Research Project Proposal — Efficient Retrieval-Augmented Generation
 AI / ML & Systems-for-ML Research
 
 
----
-
-# Document Roadmap
-
-Twenty-four sections: §§1–5 motivation, related work, gap and theory; §§6–9 questions, hypotheses, aim and scope; §§10–13 datasets, architecture, modules and baselines; §§14–18 experimental protocol, metrics, break-even analysis, component analysis and the secondary transferability study; §§19–24 risk, success criteria, statistics, reproducibility, timeline and publication strategy.
 
 ---
 
